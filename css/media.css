@@ -1,0 +1,546 @@
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+     /* header part start  */
+     /* .navbar-toggler i{
+        color: #fff;
+        font-size: 25px;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: rgb(53, 47, 149);
+    } */
+    /* header part end  */
+    /* banner part start  */
+    .banner_overlay {
+        padding-top: 183px;
+        padding-bottom: 160px;
+       
+    }
+    .banner_text p {
+        padding: 0px 100px;
+    }
+    .banner_header_text h3 {
+        font-size: 28px;
+    }
+    /* video part  */
+    .video_overlay {
+        padding: 145px 0;
+       
+    }
+    .video_text h3 {
+        font-size: 14px;
+    }
+    .service_top_text h3 {
+        font-size: 30px;
+       
+    }
+    /* meet part  */
+    .meet_middle_text p {
+        padding-top: 45px;
+       
+    }
+    /* work part  */
+    .work_btn a {
+        font-size: 13px;
+       
+    }
+    /* jone part  */
+    .jone_overly {
+        padding-top: 70px;
+
+    }
+    .jone_texxt p {
+        margin-top: 20px;
+        padding: 0px 48px;
+    }
+    /* login part  */
+    .login_text h3 {
+        font-size: 30px;
+        
+    }
+    .clint_teexx h3 {
+        font-size: 30px;
+    }
+    .footer_txtt i {
+        margin-right: 10px;
+    }
+
+    /* banner part end  */
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+     /* header part start  */
+     .navbar-toggler i{
+        color: #fff;
+        font-size: 25px;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: rgb(53, 47, 149);
+    }
+    /* header part end  */
+    /* banner part start  */
+    .banner_overlay {
+        padding-top: 180px;
+        padding-bottom: 120px;
+       
+    }
+    .banner_text p {
+        font-size: 15px;
+      
+        padding: 0px 100px;
+    }
+    .banner_header_text h3 {
+        font-size: 35px;
+      
+    }
+    /* story patt  */
+    .story_text{
+        text-align: center;
+    }
+    .story_text h3 {
+        font-size: 35px;
+        
+        margin-top: 55px;
+    }
+    .video_overlay {
+        padding: 125px 0;
+    }
+    /* service part  */
+    .service_top_text h3 {
+        font-size: 30px;
+       
+    }
+    .service_items i {
+        padding-top: 55px;
+        font-size: 55px;
+        
+    }
+    .service_items h3 {
+        padding-bottom: 0px;
+       
+        padding-top: 22px;
+    }
+    #service_part {
+        
+        padding-bottom: 60px;
+    }
+    .meet_middle_text p {
+        padding-top: 40px;
+    
+    }
+    .jone_overly {
+        padding-top: 70px;
+       
+    }
+    /* jone part  */
+    .jone_texxt p {
+        margin-top: 10px;
+       
+        padding: 0px 75px;
+    }
+    /* login part  */
+    .login_text{
+        text-align: center;
+    }
+    .login_text h3 {
+        font-size: 30px;
+       
+    }
+    /* clint part  */
+    .clint_teexx{
+        text-align: center;
+    }
+    .clint_teexx h3 {
+        font-size: 30px;
+       
+        margin-top: 70px;
+    }
+    /* footer part  */
+    .footer_txtt{
+        text-align: center;
+    }
+    .footer_txtt i {
+        margin-right: 42px;
+    }
+    /* studio part  */
+    .study_text{
+        
+    }
+    .study_text h3 {
+        font-size: 30px;
+        margin-top: 60px;
+        text-align: center;
+    }
+    /* touch part  */
+    .submit_text_form{
+        text-align: center;
+    }
+    .submit_text_form h3 {
+        font-size: 30px;
+        margin-top: 60px;
+       
+    }
+
+    /* banner part end  */
+    /* banner part start  */
+    /* banner part end  */
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /* header part start  */
+     .navbar-toggler i{
+        color: #fff;
+        font-size: 25px;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: rgb(53, 47, 149);
+    }
+    /* header part end  */
+    /* bnner prt  */
+    .banner_header_text h3::after {
+        top:60px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .banner_overlay {
+        padding-top: 155px;
+        padding-bottom: 115px;
+        
+    }
+    .banner_text p {
+        margin-bottom: 46px;
+        padding: 0px 115px;
+    }
+    .story_text{
+        text-align: center;
+    }
+    .story_text h3 {
+        font-size: 30px;
+        margin-top: 50px;
+    }
+    .video_overlay {
+        padding: 120px 0;
+    }
+    /* bnner prt  */
+    /* service part start  */
+    .service_top_text h3 {
+        font-size: 31px;
+        
+    }
+    .service_items i {
+        padding-top: 70px;
+       
+    }
+    .service_items p {
+       
+        padding-top: 0px;
+    }
+    #service_part {
+         padding-bottom: 60px;
+    }
+    /* service part end  */
+
+    /* meet part start  */
+    .meet_middle_text p {
+        padding-top: 35px;
+        padding-bottom: 21px;
+     
+    }
+    .meet_overly {
+        padding: 60px 0;
+    }
+    /* meet part end  */
+    /* work part start  */
+    #works_part {
+        padding: 51px 0;
+    }
+    .work_service button {
+        margin-right: -1px;
+    }
+    .work_btn {
+        padding-top: 40px;
+    }
+    /* jone  */
+    .jone_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+       
+    }
+    .jone_texxt p {
+        margin-top: 1px;
+        padding: 0px 0px;
+    }
+    /* log in  */
+    .login_text{
+        text-align: center;
+    }
+    /* clint part  */
+    .clint_teexx{
+        text-align: center;
+    }
+    .clint_teexx h3 {
+        font-size: 35px;
+        margin-top: 50px;
+    }
+    .footer_txtt{
+        text-align: center;
+    }
+    .study_text{
+        text-align: center;
+    }
+    .study_text h3 {
+        font-size: 35px;
+        margin-top: 45px;
+    }
+    .submit_text_form h3 {
+        font-size: 35px;
+        padding-bottom: 30px;
+        margin-top: 45px;
+    }
+    .submit_text_form{
+        text-align: center;
+    }
+    /* work part end  */
+    /* service part start  */
+    /* service part end  */
+    /* service part start  */
+    /* service part end  */
+    /* service part start  */
+    /* service part end  */
+    /* service part start  */
+    /* service part end  */
+ }
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 320px) and (max-width: 575.98px) {
+    
+    /* header part start  */
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 25px;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: rgb(53, 47, 149);
+    }
+    /* header part end  */
+
+    /* banner part start  */
+    .banner_overlay {
+        padding-top: 132px;
+        padding-bottom: 64px;
+    }
+    .banner_header_text h3 {
+        line-height: 32px;
+    }
+    .banner_header_text h3::after {
+        top: 88px;
+        left: 50%;
+    }
+    .banner_text p {
+        
+        padding: 0 0px;
+    }
+  
+    /* banner part end  */
+
+
+    /* story part start  */
+    #story_part {
+        padding: 50px 0;
+    }
+    .story_text h3 {
+        text-align: center;
+        margin-top: 47px;
+    }
+    .story_text h2 {
+        text-align: center;
+    }
+    .story_text p {
+        text-align: center;
+    }
+    .story_text{
+        text-align: center;
+    }
+    .story_text a {
+        /* margin-left: 63px; */
+    }
+    /* story part end  */
+
+
+    /* video part start  */
+    .video_overlay {
+        padding: 105px 0;
+       
+    }
+    .video_text a i {
+        font-size: 55px;
+    }
+
+    /* video part end  */
+
+    /* service part start  */
+    #service_part {
+        padding-bottom: 60px;
+    }
+    .service_top_text p {
+        line-height: 15px;
+    }
+    .service_top_text p::after {
+        left: 50%;
+    }
+    .service_items i {
+        padding-top: 55px;
+        font-size: 60px;
+      
+    }
+    .service_items h3 {
+        padding-bottom: 20px;
+        padding-top: 23px;
+        font-family: 'Roboto', sans-serif;
+    }
+    .service_items p {
+        padding: 0 28px;
+    }
+    .service_top_text p {
+        padding-top: 15px;
+        font-size: 10px;
+    }
+    /* service part end  */
+
+
+    /* meet part start  */
+    .meet_overly {
+        padding: 50px 0;
+        
+    }
+    .service_top_text h3 {
+        font-size: 20px;
+    }
+    .meet_middle_text p {
+        padding-top: 30px;
+        padding-bottom: 23px;
+        
+    }
+    /* meet part end  */
+
+    /* work part start  */
+    #works_part {
+        padding: 50px 0;
+    }
+    .work_service button {
+        margin-right: 10px;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .work_btn {
+        padding-top: 25px;
+    }
+    /* work part end  */
+
+
+    /* jone part start  */
+    .jone_overly {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    .jone_texxt p {
+        margin-top: 5px;
+        margin-bottom: 36px;
+        font-size: 14px;
+        padding: 0px 10px;
+    }
+    /* jone part end  */
+    /* login part start  */
+    #login_part {
+        padding: 42px 0;
+    }
+    .login_text h3 {
+        text-align: center;
+    }
+    .form-control {
+        line-height: .5;
+    }
+    .login_text a {
+        /* margin-left: 80px; */
+        margin-top: 10px;
+    }
+    .login_text{
+        text-align: center;
+    }
+    .clint_text_icon_part{
+        text-align: center;
+    }
+    .clint_teexx h3 {
+        margin-top: 65px;
+    }
+    /* login part end  */
+    /* last part start  */
+    .footer_overly {
+        padding: 40px 0;
+        
+    }
+    .footer_txtt{
+     text-align: center;
+    }
+    .footer_txtt p {
+        margin-bottom: 55px;
+       
+    }
+    .footer_txtt h2 {
+        font-size: 13px;
+       
+    }
+    .study_text h3 {
+        font-size: 20px;
+        
+        padding-bottom: 42px;
+        text-align: center;
+        margin-top: 56px;
+    }
+    .study_text a {
+        font-size: 12px;
+       
+    }
+    .submit_text_form{
+        text-align: center;
+    }
+    .submit_text_form h3 {
+        font-size: 20px;
+        padding-bottom: 32px;
+        margin-top: 45px;
+    }
+    .submit_text_form p {
+        font-size: 15px;
+    }
+    .sumbit_icon {
+        padding-bottom: 40px;
+    }
+    .back-to-top i {
+        font-size: 40px;
+      
+    }
+    /* last part end  */
+    /* banner part start  */
+    /* banner part end  */
+    /* banner part start  */
+    /* banner part end  */
+    /* banner part start  */
+    /* banner part end  */
+    /* banner part start  */
+    /* banner part end  */
+    /* banner part start  */
+    /* banner part end  */
+ }
+
+
+
+
